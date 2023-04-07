@@ -66,14 +66,14 @@ about_me()
     <br>
     
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916297175943)  
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917798203711)  
    
 <br>
     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kai_ahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai_ahir" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai_ahir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/linux soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linux soul" height="30" width="40" /></a>
 </p>
 
