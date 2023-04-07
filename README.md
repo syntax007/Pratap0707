@@ -1,10 +1,10 @@
-![](https://github.com/Kai0071/Kai0071/blob/main/Github%20%20Banner.png)
+![](https://github.com/pratap0707/pratap0707/blob/main/Github%20%20Banner.png)
 
 
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Kai...!!;Nice+to+meet+you...!!"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Devil...!!;Nice+to+meet+you...!!"
             alt="Typing SVG"
         /
         >
@@ -19,7 +19,7 @@
 </p>
 <h2 align="center"> Now listening on Spotify
 </h2>
-<p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="kai0071" /> </p>
+<p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="pratap0707" /> </p>
 
 
 
@@ -60,13 +60,13 @@ about_me()
 
 - 🌱 I’m currently learning **Linux, Programming, Web etc. for my own interest**
 
-- ⚡ I’m currently working on [A17-BOT](https://github.com/Kai0071/A17)
+- ⚡ I’m currently working on [A17-BOT](https://github.com/pratap0707/A17)
     
 
     <br>
     
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917798203711)  
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918010431346)  
    
 <br>
     
@@ -91,7 +91,7 @@ about_me()
 <h2 align="center"> Running and improvig myself day by day...
 </h2>
 
-<p align="center"><a href="https://github.com/Kai0071">
+<p align="center"><a href="https://github.com/pratap0707">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
