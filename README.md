@@ -40,9 +40,9 @@
     
 def about_me():
     
-    name, runtime = "Kai...!!", 17
-    location = "West Bengal, India"
-    version = "Introvert..."
+    name, runtime = "Devil...!!", 
+    location = "Maharashtra"
+    version = "error"
     print("Name: {}\nRuntime: {}\nLocation: {}\nVersion: {}".format(name, runtime, location, version))
 
 about_me()
