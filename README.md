@@ -4,7 +4,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Devil...!!;Nice+to+meet+you...!!"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Pratap...!!;Nice+to+meet+you...!!"
             alt="Typing SVG"
         /
         >
@@ -73,7 +73,7 @@ about_me()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai_ahir" height="30" width="40" /></a>
+<a href="https://instagram.com/pratapp_2714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pratap_ahir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/linux soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linux soul" height="30" width="40" /></a>
 </p>
 
