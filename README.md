@@ -60,7 +60,7 @@ about_me()
 
 - 🌱 I’m currently learning **Linux, Programming, Web etc. for my own interest**
 
-- ⚡ I’m currently working on [A17-BOT](https://github.com/pratap0707/A17)
+- ⚡ I’m currently working on [:]
     
 
     <br>
